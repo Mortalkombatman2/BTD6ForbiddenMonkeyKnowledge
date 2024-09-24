@@ -8,123 +8,123 @@
     {
       "name": "Boomerang Monkey",
       "description": "The Boomerang Monkey is great for hitting multiple bloons at once with its wide boomerang attack.",
-      "image": "boomerang_monkey.png"
+      "image": "https://static.wikia.nocookie.net/b__/images/5/51/BTD6_Boomerang_Monkey.png/revision/latest/scale-to-width-down/100?cb=20180616145853&path-prefix=bloons"
     },
     {
       "name": "Bomb Shooter",
       "description": "The Bomb Shooter deals heavy explosive damage, perfect for taking out large groups of bloons.",
-      "image": "bomb_shooter.png"
+      "image": "https://static.wikia.nocookie.net/b__/images/e/e1/Bomb_Shooter.png/revision/latest/scale-to-width-down/100?cb=20180616145810&path-prefix=bloons"
     },
     {
       "name": "Tack Shooter",
       "description": "The Tack Shooter fires tacks in multiple directions, great for hitting nearby bloons.",
-      "image": "tack_shooter.png"
+      "image": "https://static.wikia.nocookie.net/b__/images/1/15/BTD6_Tack_Shooter.png/revision/latest/scale-to-width-down/100?cb=20180616150423&path-prefix=bloons"
     },
     {
       "name": "Ice Monkey",
       "description": "The Ice Monkey freezes bloons in place, making them easier to pop.",
-      "image": "ice_monkey.png"
+      "image": "https://static.wikia.nocookie.net/b__/images/f/fb/Ice_Monkey.png/revision/latest/scale-to-width-down/100?cb=20180616145956&path-prefix=bloons"
     },
     {
       "name": "Glue Gunner",
       "description": "The Glue Gunner slows down bloons by covering them in sticky glue.",
-      "image": "glue_gunner.png"
+      "image": "https://static.wikia.nocookie.net/b__/images/1/1f/BTD6_Glue_Gunner.png/revision/latest/scale-to-width-down/100?cb=20180616145926&path-prefix=bloons"
     }
   ],
   "military": [
     {
       "name": "Sniper Monkey",
       "description": "Long-range precision tower that can hit bloons anywhere on the map.",
-      "image": "sniper_monkey.png"
+      "image": "https://static.wikia.nocookie.net/b__/images/f/ff/BTD6_Sniper_Monkey.png/revision/latest/scale-to-width-down/100?cb=20180616150336&path-prefix=bloons"
     },
     {
       "name": "Monkey Sub",
       "description": "Water-based tower that can submerge and attack bloons over a large range.",
-      "image": "monkey_sub.png"
+      "image": "https://static.wikia.nocookie.net/b__/images/e/e9/BTD6_Monkey_Sub.png/revision/latest/scale-to-width-down/100?cb=20180616150211&path-prefix=bloons"
     },
     {
       "name": "Monkey Buccaneer",
       "description": "Naval tower that combines fast attacks and powerful upgrades for destroying bloons.",
-      "image": "monkey_buccaneer.png"
+      "image": "https://static.wikia.nocookie.net/b__/images/8/87/BTD6_Monkey_Buccaneer.png/revision/latest/scale-to-width-down/100?cb=20180616150146&path-prefix=bloons"
     },
     {
       "name": "Monkey Ace",
       "description": "Airborne tower that flies in patterns and drops explosives on bloons.",
-      "image": "monkey_ace.png"
+      "image": "https://static.wikia.nocookie.net/b__/images/0/04/BTD6_Monkey_Ace.png/revision/latest/scale-to-width-down/100?cb=20180616150015&path-prefix=bloons"
     },
     {
       "name": "Heli Pilot",
       "description": "Airborne tower that can follow your cursor or patrol an area, firing rapidly at bloons.",
-      "image": "heli_pilot.png"
+      "image": "https://static.wikia.nocookie.net/b__/images/e/e7/BTD6_Heli_Pilot.png/revision/latest/scale-to-width-down/100?cb=20180616145943&path-prefix=bloons"
     },
     {
       "name": "Mortar Monkey",
       "description": "Launches explosive mortars at a targeted area, great for grouped bloons.",
-      "image": "mortar_monkey.png"
+      "image": "https://static.wikia.nocookie.net/b__/images/d/d0/Mortar_Monkey_BTD6.png/revision/latest/scale-to-width-down/100?cb=20181119022518&path-prefix=bloons"
     },
     {
       "name": "Dartling Gunner",
       "description": "Fires a continuous stream of darts and can be aimed in any direction.",
-      "image": "dartling_gunner.png"
+      "image": "https://static.wikia.nocookie.net/b__/images/f/f3/000-DartlingGunner.png/revision/latest/scale-to-width-down/100?cb=20201203034034&path-prefix=bloons"
     }
   ],
   "magic": [
     {
       "name": "Wizard Monkey",
       "description": "Magic-based tower with powerful spells, great for a variety of situations.",
-      "image": "wizard_monkey.png"
+      "image": "https://static.wikia.nocookie.net/b__/images/b/b9/BTD6_Monkey_Apprentice.png/revision/latest/scale-to-width-down/100?cb=20180627165000&path-prefix=bloons"
     },
     {
       "name": "Super Monkey",
       "description": "A fast-attacking, high-cost tower that can demolish bloons with ease.",
-      "image": "super_monkey.png"
+      "image": "https://static.wikia.nocookie.net/b__/images/9/9c/BTD6_Super_Monkey.png/revision/latest/scale-to-width-down/100?cb=20180616150409&path-prefix=bloons"
     },
     {
       "name": "Ninja Monkey",
       "description": "Fast and stealthy tower, capable of popping camo bloons and dealing great damage.",
-      "image": "ninja_monkey.png"
+      "image": "https://static.wikia.nocookie.net/b__/images/3/33/BTD6_Ninja_Monkey.png/revision/latest/scale-to-width-down/100?cb=20180616150243&path-prefix=bloons"
     },
     {
       "name": "Alchemist",
       "description": "Applies powerful potions to buff nearby towers and harm bloons.",
-      "image": "alchemist.png"
+      "image": "https://static.wikia.nocookie.net/b__/images/6/65/Monkey_Alchemist.png/revision/latest/scale-to-width-down/100?cb=20220804022938&path-prefix=bloons"
     },
     {
       "name": "Druid",
       "description": "Uses nature-based attacks to deal damage to bloons and provide support to your defenses.",
-      "image": "druid.png"
+      "image": "https://static.wikia.nocookie.net/b__/images/7/79/Druid_Monkey.png/revision/latest/scale-to-width-down/100?cb=20180616151044&path-prefix=bloons"
     },
     {
       "name": "Mermonkey",
       "description": "A water-based magic tower with mystical abilities to control bloons.",
-      "image": "mermonkey.png"
+      "image": "https://static.wikia.nocookie.net/b__/images/b/bb/MermonkeyIcon.png/revision/latest/scale-to-width-down/100?cb=20240801065347&path-prefix=bloons"
     }
   ],
   "support": [
     {
       "name": "Banana Farm",
       "description": "Generates income to boost your economy during the game.",
-      "image": "banana_farm.png"
+      "image": "https://static.wikia.nocookie.net/b__/images/8/84/BTD6_Banana_Farm.png/revision/latest/scale-to-width-down/100?cb=20180616145755&path-prefix=bloons"
     },
     {
       "name": "Spike Factory",
       "description": "Generates spikes on the path to help pop bloons passing through.",
-      "image": "spike_factory.png"
+      "image": "https://static.wikia.nocookie.net/b__/images/d/da/BTD6_Spike_Factory.png/revision/latest/scale-to-width-down/100?cb=20180616150351&path-prefix=bloons"
     },
     {
       "name": "Monkey Village",
       "description": "Provides buffs and upgrades to nearby towers, making them more effective.",
-      "image": "monkey_village.png"
+      "image": "https://static.wikia.nocookie.net/b__/images/2/23/BTD6_Monkey_Village.png/revision/latest/scale-to-width-down/100?cb=20180616150225&path-prefix=bloons"
     },
     {
       "name": "Engineer Monkey",
       "description": "Builds sentries and traps to help control bloons and support other towers.",
-      "image": "engineer_monkey.png"
+      "image": "https://static.wikia.nocookie.net/b__/images/9/98/000-EngineerMonkey.png/revision/latest/scale-to-width-down/100?cb=20190921173225&path-prefix=bloons"
     },
     {
       "name": "Beast Handler",
       "description": "Commands beasts to assist in popping bloons and dealing additional damage.",
-      "image": "beast_handler.png"
+      "image": "https://static.wikia.nocookie.net/b__/images/b/bf/BeastHandlerIcon.png/revision/latest/scale-to-width-down/100?cb=20221207233417&path-prefix=bloons"
     }
   ]
 }
