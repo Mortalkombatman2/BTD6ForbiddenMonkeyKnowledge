@@ -1,0 +1,130 @@
+{
+  "primary": [
+    {
+      "name": "Dart Monkey",
+      "description": "The Dart Monkey is a versatile and cost-effective tower available from the start.",
+      "image": "dart_monkey.png"
+    },
+    {
+      "name": "Boomerang Monkey",
+      "description": "The Boomerang Monkey is great for hitting multiple bloons at once with its wide boomerang attack.",
+      "image": "boomerang_monkey.png"
+    },
+    {
+      "name": "Bomb Shooter",
+      "description": "The Bomb Shooter deals heavy explosive damage, perfect for taking out large groups of bloons.",
+      "image": "bomb_shooter.png"
+    },
+    {
+      "name": "Tack Shooter",
+      "description": "The Tack Shooter fires tacks in multiple directions, great for hitting nearby bloons.",
+      "image": "tack_shooter.png"
+    },
+    {
+      "name": "Ice Monkey",
+      "description": "The Ice Monkey freezes bloons in place, making them easier to pop.",
+      "image": "ice_monkey.png"
+    },
+    {
+      "name": "Glue Gunner",
+      "description": "The Glue Gunner slows down bloons by covering them in sticky glue.",
+      "image": "glue_gunner.png"
+    }
+  ],
+  "military": [
+    {
+      "name": "Sniper Monkey",
+      "description": "Long-range precision tower that can hit bloons anywhere on the map.",
+      "image": "sniper_monkey.png"
+    },
+    {
+      "name": "Monkey Sub",
+      "description": "Water-based tower that can submerge and attack bloons over a large range.",
+      "image": "monkey_sub.png"
+    },
+    {
+      "name": "Monkey Buccaneer",
+      "description": "Naval tower that combines fast attacks and powerful upgrades for destroying bloons.",
+      "image": "monkey_buccaneer.png"
+    },
+    {
+      "name": "Monkey Ace",
+      "description": "Airborne tower that flies in patterns and drops explosives on bloons.",
+      "image": "monkey_ace.png"
+    },
+    {
+      "name": "Heli Pilot",
+      "description": "Airborne tower that can follow your cursor or patrol an area, firing rapidly at bloons.",
+      "image": "heli_pilot.png"
+    },
+    {
+      "name": "Mortar Monkey",
+      "description": "Launches explosive mortars at a targeted area, great for grouped bloons.",
+      "image": "mortar_monkey.png"
+    },
+    {
+      "name": "Dartling Gunner",
+      "description": "Fires a continuous stream of darts and can be aimed in any direction.",
+      "image": "dartling_gunner.png"
+    }
+  ],
+  "magic": [
+    {
+      "name": "Wizard Monkey",
+      "description": "Magic-based tower with powerful spells, great for a variety of situations.",
+      "image": "wizard_monkey.png"
+    },
+    {
+      "name": "Super Monkey",
+      "description": "A fast-attacking, high-cost tower that can demolish bloons with ease.",
+      "image": "super_monkey.png"
+    },
+    {
+      "name": "Ninja Monkey",
+      "description": "Fast and stealthy tower, capable of popping camo bloons and dealing great damage.",
+      "image": "ninja_monkey.png"
+    },
+    {
+      "name": "Alchemist",
+      "description": "Applies powerful potions to buff nearby towers and harm bloons.",
+      "image": "alchemist.png"
+    },
+    {
+      "name": "Druid",
+      "description": "Uses nature-based attacks to deal damage to bloons and provide support to your defenses.",
+      "image": "druid.png"
+    },
+    {
+      "name": "Mermonkey",
+      "description": "A water-based magic tower with mystical abilities to control bloons.",
+      "image": "mermonkey.png"
+    }
+  ],
+  "support": [
+    {
+      "name": "Banana Farm",
+      "description": "Generates income to boost your economy during the game.",
+      "image": "banana_farm.png"
+    },
+    {
+      "name": "Spike Factory",
+      "description": "Generates spikes on the path to help pop bloons passing through.",
+      "image": "spike_factory.png"
+    },
+    {
+      "name": "Monkey Village",
+      "description": "Provides buffs and upgrades to nearby towers, making them more effective.",
+      "image": "monkey_village.png"
+    },
+    {
+      "name": "Engineer Monkey",
+      "description": "Builds sentries and traps to help control bloons and support other towers.",
+      "image": "engineer_monkey.png"
+    },
+    {
+      "name": "Beast Handler",
+      "description": "Commands beasts to assist in popping bloons and dealing additional damage.",
+      "image": "beast_handler.png"
+    }
+  ]
+}
